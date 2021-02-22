@@ -1,2 +1,2 @@
 # Youtube-video-downloader
-Download Youtube videos using Python.
+Downloading Youtube videos using Python.
